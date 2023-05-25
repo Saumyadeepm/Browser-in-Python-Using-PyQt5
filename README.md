@@ -1,4 +1,4 @@
-# Simple Web Browser with PyQt5
+# ***Creating Browser in Python Using PyQt5***
 
 This is a simple web browser application developed using Python and the PyQt5 library. The application provides a graphical user interface for browsing the web, featuring tabbed browsing, navigation buttons, URL bar, and more.
 
@@ -39,6 +39,25 @@ python browser.py
 ```
 
 The web browser window will open, allowing you to browse the web using the provided features.
+![download](https://user-images.githubusercontent.com/100332918/188311562-585a0e97-e4af-459a-b500-740161bd5c9e.jpg)
+#
+#
+![download](https://user-images.githubusercontent.com/100332918/188311612-45bdd3e6-4841-4f6b-a01b-fa6a2658a818.jpg)
+#
+#
+![download](https://user-images.githubusercontent.com/100332918/188311617-1826c47d-e7d0-4c38-9101-b80924093b1f.jpg)
+#
+#
+![download](https://user-images.githubusercontent.com/100332918/188311622-5c5c0c78-3b25-4f70-8e33-1a0b3c367c86.jpg)
+#
+#
+![download](https://user-images.githubusercontent.com/100332918/188311627-23322cf1-4a23-48e1-ab8e-d90b1b618f7f.jpg)
+#
+#
+![download](https://user-images.githubusercontent.com/100332918/188311631-e726951c-d0a2-4fb9-959d-b49cbfdd7d4a.jpg)
+#
+#
+![download](https://user-images.githubusercontent.com/100332918/188311635-8694cd28-4141-4e3d-b22b-220753ed7363.jpg)
 
 ## Customization
 
